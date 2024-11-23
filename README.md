@@ -1,2 +1,2 @@
 # Delta-demo23
-Demo for revision
+Demo for revision.
